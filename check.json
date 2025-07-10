@@ -1,4 +1,4 @@
 {
-  "test.py": "print(\"a\")",
+  "test.py": "print(\"g\")",
   "register-form.py": "print(\"this is a register form\")"
 }
